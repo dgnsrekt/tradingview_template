@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "autoview"
+name = "tradingview_template"
 version = "0.1.0"
 description = "messing around with building pinescript with jinja templates"
 authors = ["dgnsrekt <dgnsrekt@pm.me>"]
